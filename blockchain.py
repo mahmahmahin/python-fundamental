@@ -504,4 +504,4 @@ while waiting_for_input:
     print("choice registered")
 
 
-print(blockchain)
+print("blockchain",blockchain)
