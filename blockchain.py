@@ -22,6 +22,9 @@ MINING_REWARD=10
 #             }
 # blockchain=[genesis_block]
 
+def func1():
+    print("hello")
+
 blockchain=[]
 open_transactions=[]
 # in reality owner will be "aghadowpganvlkajgwqep"
@@ -505,3 +508,4 @@ while waiting_for_input:
 
 
 print("blockchain",blockchain)
+print("done")
